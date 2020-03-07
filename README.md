@@ -23,6 +23,7 @@ Logo após a conexão ser estabelecida, o painel que irá se abrir será o paine
  
 
 ![ Painel de Nome](https://raw.githubusercontent.com/caioqazz/OneCardPokerClient/master/imgs/img2.jpg)
+
 Figura 2: Painel de Nome.
 
 ### Oponentes
@@ -44,17 +45,20 @@ Figura 3: Painel de Ajuda.
  
 
  ![ Painel de Oponentes](https://raw.githubusercontent.com/caioqazz/OneCardPokerClient/master/imgs/img4.jpg)
+ 
 Figura 4: Painel de Oponentes.
 
 ### Jogo iniciado
 O jogo é iniciado, então a rodada começa. No inicio de cada rodada os jogadores devem entrar em um comum acordo para realização das apostas, quando decidirem quantas moedas a rodada valerá, o jogador poderá selecionar a carta que deseja jogar.
  
  ![ Painel de Aposta](https://raw.githubusercontent.com/caioqazz/OneCardPokerClient/master/imgs/img5.jpg)
+ 
 Figura 5: Painel de Aposta.
  
  
 
  ![ Painel de Jogada](https://raw.githubusercontent.com/caioqazz/OneCardPokerClient/master/imgs/img6.jpg)
+ 
 Figura 6: Painel de Jogada.
 
 ### Critérios de fim de jogo
