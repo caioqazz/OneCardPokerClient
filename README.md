@@ -13,6 +13,7 @@ A comunicação entre processos foi implementada utilizando o RMI com stubs din�
 Após iniciar o jogo, o cliente tem a opção de conectar ao servidor clicando em um botão, caso a conexão seja estabelecida um novo painel será aberto, caso não seja estabelecida, o cliente recebe uma mensagem e continua no mesmo painel.
  
 ![ Painel de Conexão](https://raw.githubusercontent.com/caioqazz/OneCardPokerClient/master/imgs/img1.jpg)
+
 Figura 1: Painel de Conexão.
 
 ### Nome
