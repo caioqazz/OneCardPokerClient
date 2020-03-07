@@ -2,7 +2,7 @@
 
 ## Rodando o projeto
 
-1. Importe e inicie o projeto [Server](https://github.com/caioqazz/OneCardPokerServer.
+1. Importe e inicie o projeto [Server](https://github.com/caioqazz/OneCardPokerServer)
 2. Importe e inicie este projeto.
 
 Aproveite!
